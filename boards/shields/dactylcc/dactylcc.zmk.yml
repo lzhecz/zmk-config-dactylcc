@@ -1,0 +1,8 @@
+file_format: "1"
+id: dactylcc
+name: DactylCC
+type: shield
+url: https://github.com/lzhecz/zmk-config-dactylcc/
+requires: [pro_micro]
+features:
+  - keys
